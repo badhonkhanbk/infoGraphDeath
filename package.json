@@ -1,7 +1,7 @@
 {
   "name": "user",
   "version": "1.0.0",
-  "description": "blending recipe",
+  "description": "blending data",
   "main": "server.ts",
   "scripts": {
     "start": "nodemon server.ts",
